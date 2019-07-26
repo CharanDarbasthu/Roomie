@@ -1,0 +1,15 @@
+.vs/R/DesignTimeBuild/.dtbcache
+.vs/R/v16/.suo
+.vs/R/v16/Server/sqlite3/storage.ide
+R/R.Android/obj/Debug/90/DesignTimeResolveAssemblyReferences
+R/R.Android/obj/R.Android.csproj.nuget.dgspec.json
+R/R.Android/obj/project.assets.json
+R/R.iOS/obj/R.iOS.csproj.nuget.dgspec.json
+R/R.iOS/obj/project.assets.json
+R/R/obj/R.csproj.nuget.dgspec.json
+R/R/obj/project.assets.json
+.vs/*
+ .vs/R/v16/Server/sqlite3/storage.ide-shm
+ .vs/R/v16/Server/sqlite3/storage.ide-wal
+ .vs/R/v16/Server/sqlite3/db.lock
+
