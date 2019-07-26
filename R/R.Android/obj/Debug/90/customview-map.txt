@@ -1,0 +1,42 @@
+@string/appbar_scrolling_view_behavior;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\layout\flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\layout\rootlayout.xml
+@string/appbar_scrolling_view_behavior;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\layout\shellcontent.xml
+alpha;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\anim\enterfromleft.xml
+alpha;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\anim\exittoleft.xml
+android.support.design.widget.AppBarLayout;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.AppBarLayout;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\layout\rootlayout.xml
+android.support.design.widget.AppBarLayout;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\layout\shellcontent.xml
+android.support.design.widget.BottomNavigationView;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\layout\bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\layout\rootlayout.xml
+android.support.design.widget.CoordinatorLayout;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\layout\shellcontent.xml
+android.support.design.widget.TabLayout;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\layout\rootlayout.xml
+android.support.design.widget.TabLayout;obj\Debug\90\res\layout\tabbar.xml
+android.support.v4.widget.NestedScrollView;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\layout\rootlayout.xml
+android.support.v4.widget.NestedScrollView;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\layout\shellcontent.xml
+android.support.v7.widget.RecyclerView;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\layout\flyoutcontent.xml
+android.support.v7.widget.Toolbar;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\layout\rootlayout.xml
+android.support.v7.widget.Toolbar;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\layout\shellcontent.xml
+android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\toolbar.xml
+cache-path;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\74\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-cache-path;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\74\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\74\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+FrameLayout;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\layout\bottomtablayout.xml
+item;obj\Debug\90\res\values\styles.xml
+LinearLayout;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\layout\bottomtablayout.xml
+paths;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\74\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\googsvcsjson\values\goog_svcs_json.xml
+resources;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\11\jl\res\values\strings.xml
+resources;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\12\jl\res\values\strings.xml
+resources;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\8\jl\res\values\strings.xml
+resources;obj\Debug\90\res\values\styles.xml
+set;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\anim\enterfromleft.xml
+set;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\anim\enterfromright.xml
+set;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\anim\exittoleft.xml
+set;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\anim\exittoright.xml
+string;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\googsvcsjson\values\goog_svcs_json.xml
+style;obj\Debug\90\res\values\styles.xml
+translate;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\anim\enterfromleft.xml
+translate;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\anim\enterfromright.xml
+translate;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\anim\exittoleft.xml
+translate;C:\Users\Brio Support\Desktop\R\R\R.Android\obj\Debug\90\lp\80\jl\res\anim\exittoright.xml
