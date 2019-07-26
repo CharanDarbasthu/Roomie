@@ -12,8 +12,9 @@
             <Button
                 BackgroundColor="Black"
                 Command="{Binding LoginCommand}"
-                Text="{translator:Translate CreateRoomText}"
+                Text="Create Room"
                 TextColor="Gold" />
+            <!--  Text="{translator:Translate CreateRoomText}"  -->
             <StackLayout Padding="10,0" Orientation="Horizontal">
                 <BoxView
                     HeightRequest="0.3"

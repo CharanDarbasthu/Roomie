@@ -20,7 +20,7 @@ namespace R.Helpers
 
         public TranslateExtension()
         {
-            //if (Device.RuntimePlatform == Device.iOS || Device.RuntimePlatform == Device.Android)
+            //if (Device.RuntimePlatform == Device.iOS || Device.RuntimePlatform   == Device.Android)
             //{
             //    ci = DependencyService.Get<ILocalize>().GetCurrentCultureInfo();
             //}
